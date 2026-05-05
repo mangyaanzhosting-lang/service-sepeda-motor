@@ -1,1 +1,0 @@
-# service-sepeda-motor
